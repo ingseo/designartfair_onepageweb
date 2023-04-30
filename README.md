@@ -1,4 +1,4 @@
-# :chocolate_bar: Design art fair 디자인 아트 페어 원페이지 웹사이트 (반응형) 
+# :art: Design art fair 디자인 아트 페어 원페이지 웹사이트 (반응형) 
 프로젝트 링크 :point_right: https://ingseo.github.io/designartfair_onepageweb/2020design
 
 ***
